@@ -12,7 +12,10 @@
 
 # Closure: A closure is simply a function inside another function that has access to the outer function variable
 
+# Denouncing : Debouncing is a strategy used to improve the performance of a feature by controlling the time at which a function should be executed. Debouncing accepts a function and transforms it in to an updated (debounced) function so that the code inside the original function is executed after a certain period of time.
 
+
+ 
 1. what is history of javascript ?
 
     JS was created by Brenden Eich in NetScape Communication in 1995. 
